@@ -88,7 +88,7 @@ pip install -r requirements.txt
 
 ### 3. Run the notebook
 ```bash
-Open notebook/topsis_llm_evaluation.ipynb in Jupyter or Google Colab and execute all cells.
+Open notebook/PAS_Assignment5.ipynb in Jupyter or Google Colab and execute all cells.
 ```
 
 
