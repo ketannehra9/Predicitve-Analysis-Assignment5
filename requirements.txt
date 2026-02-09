@@ -1,0 +1,10 @@
+torch
+transformers
+evaluate
+rouge-score
+sacrebleu
+nltk
+pandas
+numpy
+matplotlib
+seaborn
